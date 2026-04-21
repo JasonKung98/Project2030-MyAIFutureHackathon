@@ -1,0 +1,9 @@
+{
+  "name": "光星AI Assistant",
+  "description": "AI-powered physical rehabilitation agent. Upload prescriptions, get AI exercise recommendations, perform live posture tracking, and generate signed medical reports.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
